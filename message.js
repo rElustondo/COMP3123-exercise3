@@ -1,0 +1,1 @@
+module.exports = "<h1>Welcome to Lab Exercise 03</h1>"
